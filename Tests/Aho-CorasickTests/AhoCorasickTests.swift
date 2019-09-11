@@ -1,5 +1,5 @@
 import XCTest
-@testable import AhoCorasick
+@testable import Aho_Corasick
 
 class AhoCorasickTests: XCTestCase {
 
